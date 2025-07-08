@@ -53,7 +53,7 @@ if st.button("Get answer") and user_q.strip():
 
     pred_label = clf_model.predict(q_vec)[0]
 
-    label_txt = f"Predicted Class: `{pred_label}`"  # Can map label → text if needed
+    label_txt = f"Predicted Class: `{pred_label}`"  
     st.write(label_txt)
 
     if scores[0] < 0.9:
