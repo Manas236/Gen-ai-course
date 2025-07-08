@@ -51,7 +51,7 @@ if user_input:
     st.subheader("📄 Top Matching Papers")
     for i, (pid, text, score) in enumerate(top_papers):
         st.markdown(f"**{i+1}. ID: {pid}** (Score: {score:.2f})")
-        st.markdown(f"`{text[:500]}...`")  # Truncate long text
+        st.markdown(f"`{text[:500]}...`")  
 
     top_paper_text = top_papers[0][1]
 
