@@ -1,0 +1,10 @@
+streamlit
+Pillow
+requests
+google-generativeai
+scikit-learn
+pandas
+seaborn
+matplotlib
+joblib
+imbalanced-learn
