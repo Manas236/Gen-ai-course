@@ -1,0 +1,6 @@
+transformers
+torch
+requests
+textstat
+numpy
+language-tool-python
