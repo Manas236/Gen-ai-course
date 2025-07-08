@@ -57,7 +57,7 @@ Task_5/
 
   * 📉 Confusion Matrix shows well-distributed performance across all classes.
 
-![Confusion Matrix](my_emotion_bot/confusion_matrix.png) <!-- Or upload to GitHub and use a public link -->
+![Confusion Matrix](visuals/confusion_matrix.png) <!-- Or upload to GitHub and use a public link -->
 
 ---
 
