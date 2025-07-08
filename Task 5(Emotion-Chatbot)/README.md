@@ -74,8 +74,8 @@ A simple chatbot interface built using **Streamlit** that:
 
 ## 💾 Download Model Weights
 
-📦 **Model Weights (model.safetensors)**:
-[Download from Google Drive]((https://drive.google.com/file/d/1_EGv-lEm6k95F-en6sfB0BFRZlYmaDBo/view?usp=sharing)) <!-- Replace with your actual model upload link -->
+[Download from Google Drive](https://drive.google.com/file/d/1_EGv-lEm6k95F-en6sfB0BFRZlYmaDBo/view?usp=sharing)
+<!-- Replace with your actual model upload link -->
 
 ---
 
