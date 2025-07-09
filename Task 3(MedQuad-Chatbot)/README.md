@@ -38,8 +38,7 @@ TASK 3/
 │
 ├── parse_medquad.py             # Script to process & convert raw MedQuAD into usable JSON
 ├── README.md                    # 📘 Project documentation
-├── requirements.txt             # 🔧 Python dependencies
-
+├── requirements.txt            # 🔧 Python dependencies
 
 
 
