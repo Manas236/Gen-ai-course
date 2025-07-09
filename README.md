@@ -12,6 +12,24 @@ A curated set of AI-powered projects showcasing applications of NLP, multi-modal
 ```
 
 GEN---AI-COURSE/
+├── customer_service_chatbot_LLM/
+│ ├── dataset/
+│ ├── src/
+│ ├── README.md
+│ └── requirements.txt
+│
+├── LLM/
+│ ├── End-To-End-Gemini-Project-main/
+│ ├── llama3/
+│ ├── intro_palm_api.ipynb
+│ └── python.ipynb
+│
+├── NLP/
+│ ├── NLP_bot/
+│ ├── NLP (1).ipynb
+│ ├── NLP_Word2vec.ipynb
+│ └── SMSSpamCollection.txt
+│
 ├── Task 1 (Article-Generator)/
 │   ├── app/
 │   ├── README.md
@@ -62,6 +80,15 @@ GEN---AI-COURSE/
 │   │   └── Confusion\_matrix.png
 │   ├── README.md
 │   └── requirements.txt
+├── Task 5 (Emotion-Chatbot)/
+│ ├── App/
+│ ├── .env
+│ ├── main.py
+│ └── Model/
+│ ├── emotion_dataset/
+│ ├── model.ipynb
+│ └── training.ipynb
+
 
 ````
 
