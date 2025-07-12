@@ -161,5 +161,4 @@ This project is provided for academic and learning purposes.
 
 ```
 
-Let me know if you'd like me to **create individual `README.md` files** for each task folder too.
 ```
